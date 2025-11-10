@@ -53,7 +53,6 @@ __all__ = ('celery_app',)
 mkdir -p listings/services
 touch listings/services/__init__.py
 ```
-
 ### 3.4 Create templates directory
 
 ```bash
